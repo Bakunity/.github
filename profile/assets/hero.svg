@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-labelledby="title desc">
+<title id="title">Bakunity</title><desc id="desc">Bakunity systems ecosystem profile.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#010302"/><stop offset=".48" stop-color="#07100a"/><stop offset="1" stop-color="#020504"/></linearGradient>
+<radialGradient id="core"><stop stop-color="#2cff88" stop-opacity=".22"/><stop offset=".55" stop-color="#2cff88" stop-opacity=".05"/><stop offset="1" stop-color="#2cff88" stop-opacity="0"/></radialGradient>
+<linearGradient id="scan" x1="0" x2="1"><stop stop-color="#2cff88" stop-opacity="0"/><stop offset=".5" stop-color="#d8ffe5"/><stop offset="1" stop-color="#2cff88" stop-opacity="0"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="3.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#225a36" stroke-width="1" opacity=".1"/></pattern>
+<clipPath id="rain"><rect x="30" y="76" width="1140" height="420" rx="20"/></clipPath>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"DejaVu Sans Mono","Liberation Mono",monospace}
+.r1{animation:r 8s linear infinite}.r2{animation:r 10s linear infinite -3s}.r3{animation:r 7s linear infinite -5s}.r4{animation:r 11s linear infinite -1s}.r5{animation:r 9s linear infinite -6s}.r6{animation:r 12s linear infinite -7s}.r7{animation:r 8.8s linear infinite -2s}.r8{animation:r 10.4s linear infinite -4s}.scan{animation:s 7s linear infinite}.p{animation:p 2.2s ease-in-out infinite}.d{stroke-dasharray:8 10;animation:d 12s linear infinite}
+@keyframes r{0%{transform:translateY(-420px);opacity:0}8%{opacity:.55}90%{opacity:.25}100%{transform:translateY(620px);opacity:0}}@keyframes s{0%{transform:translateY(-25px);opacity:0}8%{opacity:.9}92%{opacity:.25}100%{transform:translateY(570px);opacity:0}}@keyframes p{0%,100%{opacity:.4}50%{opacity:1}}@keyframes d{to{stroke-dashoffset:-190}}
+</style></defs>
+<rect width="1200" height="540" rx="28" fill="url(#bg)"/><rect width="1200" height="540" rx="28" fill="url(#grid)"/><rect x="1.5" y="1.5" width="1197" height="537" rx="26.5" fill="none" stroke="#28613d" stroke-opacity=".8"/>
+<circle cx="60" cy="42" r="6" fill="#ff5f57"/><circle cx="82" cy="42" r="6" fill="#febc2e"/><circle cx="104" cy="42" r="6" fill="#28c840"/><text x="136" y="47" class="m" font-size="13" fill="#688775">root@bakunity:~/core</text><text x="946" y="47" class="m" font-size="12" fill="#2cff88">[ ECOSYSTEM://ONLINE ]</text><path d="M34 76H1166" stroke="#173a25"/>
+
+<g clip-path="url(#rain)" class="m" fill="#2cff88" font-size="12">
+<text x="88" y="-120" class="r1" opacity=".11">AI<tspan x="88" dy="20">01</tspan><tspan x="88" dy="20">SYS</tspan><tspan x="88" dy="20">BAK</tspan><tspan x="88" dy="20">11</tspan></text>
+<text x="200" y="-60" class="r2" opacity=".08">NET<tspan x="200" dy="20">AI</tspan><tspan x="200" dy="20">OPS</tspan><tspan x="200" dy="20">01</tspan></text>
+<text x="330" y="-200" class="r3" opacity=".1">BAKUNITY<tspan x="330" dy="20">CORE</tspan><tspan x="330" dy="20">10</tspan><tspan x="330" dy="20">SYS</tspan></text>
+<text x="480" y="-90" class="r4" opacity=".08">VPN<tspan x="480" dy="20">RDP</tspan><tspan x="480" dy="20">AI</tspan><tspan x="480" dy="20">INFRA</tspan></text>
+<text x="710" y="-170" class="r5" opacity=".1">01<tspan x="710" dy="20">AUTO</tspan><tspan x="710" dy="20">SYS</tspan><tspan x="710" dy="20">NET</tspan></text>
+<text x="840" y="-70" class="r6" opacity=".08">BAK<tspan x="840" dy="20">AI</tspan><tspan x="840" dy="20">VPN</tspan><tspan x="840" dy="20">10</tspan></text>
+<text x="980" y="-230" class="r7" opacity=".11">ACCESS<tspan x="980" dy="20">INFRA</tspan><tspan x="980" dy="20">OPS</tspan><tspan x="980" dy="20">01</tspan></text>
+<text x="1100" y="-40" class="r8" opacity=".08">AI<tspan x="1100" dy="20">NET</tspan><tspan x="1100" dy="20">SYS</tspan><tspan x="1100" dy="20">11</tspan></text>
+</g>
+
+<ellipse cx="600" cy="270" rx="360" ry="210" fill="url(#core)"/>
+<circle cx="600" cy="278" r="126" fill="none" stroke="#2cff88" stroke-opacity=".08"/><circle cx="600" cy="278" r="92" fill="none" stroke="#2cff88" stroke-opacity=".19" class="d"/>
+<path d="M600 278L274 170M600 278L926 170M600 278L250 380M600 278L950 380" stroke="#2cff88" stroke-opacity=".2" class="d"/>
+<g class="m"><text x="600" y="230" text-anchor="middle" font-size="14" fill="#66d88a">BAKUNITY CORE</text><text x="600" y="292" text-anchor="middle" font-size="55" font-weight="800" letter-spacing="8" fill="#f1fff5">BAKUNITY</text><text x="600" y="333" text-anchor="middle" font-size="18" font-weight="700" fill="#2cff88" filter="url(#glow)">СИСТЕМЫ, КОТОРЫЕ РАБОТАЮТ</text></g>
+
+<g class="m">
+<rect x="90" y="120" width="230" height="90" rx="15" fill="#061009" stroke="#194b2c"/><circle cx="112" cy="143" r="5" fill="#2cff88" class="p"/><text x="128" y="148" font-size="14" font-weight="700" fill="#f1fff5">AI / AUTOMATION</text><text x="112" y="176" font-size="11" fill="#6e9079">агенты · процессы · интеграции</text>
+<rect x="880" y="120" width="230" height="90" rx="15" fill="#061009" stroke="#194b2c"/><circle cx="902" cy="143" r="5" fill="#2cff88" class="p"/><text x="918" y="148" font-size="14" font-weight="700" fill="#f1fff5">INFRASTRUCTURE</text><text x="902" y="176" font-size="11" fill="#6e9079">Linux · Docker · networks</text>
+<rect x="70" y="350" width="250" height="90" rx="15" fill="#061009" stroke="#194b2c"/><circle cx="92" cy="373" r="5" fill="#2cff88" class="p"/><text x="108" y="378" font-size="14" font-weight="700" fill="#f1fff5">CYBERSECURITY</text><text x="92" y="406" font-size="11" fill="#6e9079">privacy · access · control</text>
+<rect x="880" y="350" width="250" height="90" rx="15" fill="#061009" stroke="#194b2c"/><circle cx="902" cy="373" r="5" fill="#2cff88" class="p"/><text x="918" y="378" font-size="14" font-weight="700" fill="#f1fff5">PRODUCTS</text><text x="902" y="406" font-size="11" fill="#6e9079">Bak VPN · Access · systems</text>
+</g>
+
+<text x="600" y="487" text-anchor="middle" class="m" font-size="12" fill="#60806a">AI × INFRASTRUCTURE × AUTOMATION × SECURITY × PRODUCTS</text>
+<g transform="translate(474 510)"><circle cx="7" cy="7" r="5.5" fill="#2cff88" class="p" filter="url(#glow)"/><text x="22" y="11" class="m" font-size="12" fill="#2cff88">CORE ONLINE</text><text x="118" y="11" class="m" font-size="12" fill="#55715f">// BUILDING FOR REAL USE</text></g>
+<rect x="24" y="-18" width="1152" height="3" fill="url(#scan)" class="scan" filter="url(#glow)"/>
+</svg>
