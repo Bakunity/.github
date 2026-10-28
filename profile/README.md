@@ -1,24 +1,68 @@
-# Bakunity
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Bakunity — системы, которые работают" />
+</p>
 
-Быстрые ссылки на репозитории.
+<p align="center">
+  <strong>Bakunity — технологическая экосистема продуктов, инфраструктуры и автоматизации.</strong><br/>
+  Мы соединяем AI, софт, сети и системную инженерию в решения, которые работают в реальной эксплуатации.
+</p>
 
-## Main
+<p align="center">
+  <code>AI</code> × <code>INFRASTRUCTURE</code> × <code>AUTOMATION</code> × <code>CYBERSECURITY</code> × <code>PRODUCTS</code>
+</p>
 
-- [Bakunity](https://github.com/Bakunity/Bakunity)
-- [Bakunity Access](https://github.com/Bakunity/Bakunity-Access)
-- [Bak VPN](https://github.com/Bakunity/hermes-vpn-control)
-- [Bakunity Infra](https://github.com/Bakunity/bakunity-infra)
-- [AWDS](https://github.com/Bakunity/AWDS)
-- [tima.biz](https://github.com/Bakunity/tima.biz)
+## `> core.products`
 
-## Projects
+<p align="center">
+  <a href="https://bakvpn.me"><img src="./assets/card-vpn.svg" width="49%" alt="Bak VPN" /></a>
+  <a href="https://github.com/Bakunity/RDP"><img src="./assets/card-access.svg" width="49%" alt="Bakunity Access" /></a>
+</p>
 
-- [Telegram Mail](https://github.com/Bakunity/telegram-mail)
-- [Bakunity Save](https://github.com/Bakunity/Bakunity-Save)
-- [Project Context System](https://github.com/Bakunity/Project-Context-System)
+<p align="center">
+  <a href="https://github.com/Bakunity"><img src="./assets/card-ai.svg" width="49%" alt="AI Automation" /></a>
+  <a href="https://github.com/Bakunity"><img src="./assets/card-infra.svg" width="49%" alt="Infrastructure" /></a>
+</p>
 
-## Infrastructure
+## `> system.method`
 
-- [CI / GitHub](https://github.com/Bakunity/CI-github)
-- [VPS](https://github.com/Bakunity/VPS)
-- [RDP](https://github.com/Bakunity/RDP)
+<img src="./assets/systems.svg" width="100%" alt="Как Bakunity строит системы" />
+
+## `> what.we.build`
+
+```text
+Bakunity
+├── VPN и сетевые продукты
+├── удалённый доступ и управление
+├── AI-агенты и автоматизация процессов
+├── инфраструктура и системная инженерия
+├── кибербезопасность и контроль доступа
+└── собственные интернет-продукты
+```
+
+Мы не строим технологию ради технологии.  
+Цель — **сокращать ручную работу, повышать контроль и превращать идеи в работающие системы**.
+
+## `> open.source`
+
+Публичная часть экосистемы постепенно расширяется.
+
+- **[Bakunity RDP](https://github.com/Bakunity/RDP)** — открытая часть направления удалённого доступа.
+- **[Bak VPN](https://bakvpn.me)** — сетевой продукт Bakunity.
+- **[TimaBak](https://github.com/TimaBak)** — профиль основателя и экспериментальные проекты.
+
+Часть внутренних систем и инфраструктуры развивается в приватных репозиториях.
+
+## `> principles`
+
+```text
+01  реальная польза > демонстрация технологии
+02  автоматизация > повторяющаяся ручная работа
+03  инфраструктура должна быть управляемой
+04  безопасность закладывается в систему, а не добавляется потом
+05  запустить → измерить → улучшить
+```
+
+<p align="center">
+  <strong>BAKUNITY</strong><br/>
+  <sub>AI · Infrastructure · Automation · Security · Products</sub>
+</p>
