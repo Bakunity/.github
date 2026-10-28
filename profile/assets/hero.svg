@@ -30,10 +30,10 @@
 <circle cx="600" cy="278" r="126" fill="none" stroke="#2cff88" stroke-opacity=".08"/><circle cx="600" cy="278" r="92" fill="none" stroke="#2cff88" stroke-opacity=".19" class="d"/>
 <path d="M600 278L274 170M600 278L926 170M600 278L250 380M600 278L950 380" stroke="#2cff88" stroke-opacity=".2" class="d"/>
 <g class="m">
-<text x="600" y="224" text-anchor="middle" font-size="13" fill="#66d88a">TECHNOLOGY COMPANY</text>
+<text x="600" y="224" text-anchor="middle" font-size="13" fill="#66d88a">DIGITAL SYSTEMS COMPANY</text>
 <text x="600" y="292" text-anchor="middle" font-size="55" font-weight="800" letter-spacing="8" fill="#f1fff5">BAKUNITY</text>
-<text x="600" y="329" text-anchor="middle" font-size="17" font-weight="700" fill="#2cff88" filter="url(#glow)">ПРОДУКТЫ · ИНФРАСТРУКТУРА · АВТОМАТИЗАЦИЯ</text>
-<text x="600" y="355" text-anchor="middle" font-size="12" fill="#6d8b77">СОБСТВЕННЫЕ ПРОДУКТЫ И СИСТЕМЫ ДЛЯ РЕАЛЬНОЙ ЭКСПЛУАТАЦИИ</text>
+<text x="600" y="329" text-anchor="middle" font-size="17" font-weight="700" fill="#2cff88" filter="url(#glow)">PRODUCTS · INFRASTRUCTURE · AUTOMATION</text>
+<text x="600" y="355" text-anchor="middle" font-size="12" fill="#6d8b77">FROM IDEA TO OPERATION</text>
 </g>
 
 <g class="m">
@@ -43,7 +43,7 @@
 <rect x="880" y="350" width="250" height="90" rx="15" fill="#061009" stroke="#194b2c"/><circle cx="902" cy="373" r="5" fill="#2cff88" class="p"/><text x="918" y="378" font-size="14" font-weight="700" fill="#f1fff5">SECURITY</text><text x="902" y="406" font-size="11" fill="#6e9079">access · privacy · control</text>
 </g>
 
-<text x="600" y="487" text-anchor="middle" class="m" font-size="12" fill="#60806a">BUILD · OPERATE · AUTOMATE · IMPROVE</text>
+<text x="600" y="487" text-anchor="middle" class="m" font-size="12" fill="#60806a">BUILD · SHIP · OPERATE · SCALE</text>
 <g transform="translate(480 510)"><circle cx="7" cy="7" r="5.5" fill="#2cff88" class="p" filter="url(#glow)"/><text x="22" y="11" class="m" font-size="12" fill="#2cff88">BAKUNITY ONLINE</text><text x="142" y="11" class="m" font-size="12" fill="#55715f">// PRODUCT ECOSYSTEM</text></g>
 <rect x="24" y="-18" width="1152" height="3" fill="url(#scan)" class="scan" filter="url(#glow)"/>
 </svg>
